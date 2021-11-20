@@ -1,0 +1,236 @@
+body{
+    margin: 0%;
+}
+.d1{
+    position: relative;
+    /* width: 100vw;
+    height: 50vh; */
+    background-color: black;
+}
+
+.im1{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+.p1{
+    width: 100vw;
+    height: 100vh;
+}
+.con1{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    top: 35vh;
+    left: 5vw;
+}
+.con2{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    
+    width: 25vw;
+    height: 20vh;
+    top: 40vh;
+    left: 5vw;
+}
+.h-3{
+    font-size: 2vw;
+    font-family: 'Montserrat', sans-serif;
+}
+.h-1{
+    font-size: 2vw;
+    font-family: 'Montserrat', sans-serif;
+}
+.h-1-1{
+    font-size: 2vw;
+    font-family: 'Dela Gothic One', cursive;
+}
+.sam{
+    position: absolute;
+    display: inline-block;
+    color:white;
+    font-size: 2vw;
+    top: 2vh;
+    left: 5vw;
+}
+.d2{
+    margin-top: 0.3%;
+    position: relative;
+    /* width: 100vw;
+    height: 0vh; */
+    background-color: black;
+}
+.im2{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+.p2{
+    width: 100vw;
+    height: 100vh;
+}
+.con3{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 40vh;
+    left: 5vw;
+}
+.con4{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    
+    width: 25vw;
+    height: 20vh;
+    bottom: 20vh;
+    left: 5vw;
+}
+.d3{
+    margin-top: 0.3%;
+    position: relative;
+    width: 100vw;
+    height: 70vh;
+    background-color: black;
+}
+.con5{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    font-size: 3vw;
+     
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 25vh;
+    left: 5vw;
+}
+.h-3-1{
+    line-height: 2vw;
+    font-size: 2vw;
+    /* font-family: 'Dela Gothic One', cursive; */
+}
+.h-1-2{
+    line-height: 2vw;
+    font-size: 2vw;
+    /* font-family: 'Dela Gothic One', cursive; */
+}
+.con6{
+    display: inline-block;
+    position:absolute;
+    color: white;
+   
+    width: 25vw;
+    height: 20vh;
+    bottom: 5vh;
+    left: 5vw;
+}
+.d4{
+    position: relative;
+    /* width: 100vw;
+    height: 50vh; */
+    background-color: black;
+}
+.im3{
+    position: relative;
+    /* width: 100vw;
+    height: 100vh; */
+}
+.p3{
+    width: 100vw;
+    height: 100vh;
+}
+.con7{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 40vh;
+    left: 5vw;
+}
+.con8{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    
+    width: 25vw;
+    height: 20vh;
+    bottom: 20vh;
+    left: 5vw;
+}
+.d5{
+    position: relative;
+    /* width: 100vw;
+    height: 50vh; */
+    background-color: black;
+}
+.im4{
+    position: relative;
+    /* width: 100vw;
+    height: 100vh; */
+}
+.p4{
+    width: 100vw;
+    height: 100vh;
+}
+.con9{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 40vh;
+    left: 5vw;
+}
+.con10{
+    display: inline-block;
+    position:absolute;
+    color: white;
+    
+    width: 25vw;
+    height: 20vh;
+    bottom: 20vh;
+    left: 5vw;
+}
+.d6{
+    position: relative;
+    width: 100vw;
+    height: 25vh;
+    background-color: black;
+}
+.cpy{
+    position: absolute;
+    font-size: 1em;
+    top: 5vh;
+    left: 40vw;
+    color: white;
+   
+}
+.msg{
+    position: absolute;
+    font-size: 1em;
+    top: 16vh;
+    left: 40vw;
+    color: white;
+   
+}
+.call{
+    position: absolute;
+    font-size: 1em;
+    top: 10vh;
+    left: 40vw;
+    color: white;
+ 
+}
+a{
+    color: white;
+}
